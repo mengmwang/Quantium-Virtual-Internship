@@ -1,6 +1,6 @@
 # Quantium-Virtual-Intership
 
-**Quantium Data Analytics Virtual Experience @ Forge**
+**Quantium Data Analytics Virtual Experience @ Forage**
 
 Personal solutions for Task 1 and Task 2
 
